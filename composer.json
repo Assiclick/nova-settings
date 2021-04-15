@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "akaunting/setting": "^1.1"
+        "akaunting/laravel-setting": "^1.1"
     },
     "autoload": {
         "psr-4": {
